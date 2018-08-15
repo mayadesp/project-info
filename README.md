@@ -19,48 +19,42 @@ Let's start with something fun for your first project - **a game!**
 
 It's important to make your game exciting and _juicy_!
 For more information about making your game _juicy_,
-[see the lesson about it on the platform](http://learn.ironhack.com/#/learning_unit/3087).
+[see the lesson about it on the platform](http://learn.ironhack.com/#/learning_unit/4317).
 
 You and the Ironhack staff will also vote for your favorites
 and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
 
 Here are some examples of past projects:
-- [Duri the Dwarf](https://lucasm-git.github.io/duri-the-dwarf/)
-- [Iron Battle](https://kleemdub.github.io/IronBattleShip/)
-- [Let's RGB](https://sami-az.github.io/lets-RGB/)
-- [Maze Game](https://kucharskap.github.io/maze-game/)
+- [Subway Frotteur](https://nadiahachemi.github.io/module1-project/)
+- [Love Across Borders](https://marieglr.github.io/gameProject/)
+- [Galaxy Cats](https://moonchie.github.io/galaxy_cats/)
+- [Ironfight](https://manelleg.github.io/Game-project/)
 
 
 Schedule
 --------
-### Monday - June 12th ###
+### Monday - August 20th ###
 - **Coding Kata** - [Sort a 2D array](https://www.codewars.com/kata/sort-a-2d-array)
 
-### Tuesday - June 12th ###
+### Tuesday - August 21st ###
 - **Coding Kata** - [Number of anagrams](https://www.codewars.com/kata/number-of-anagrams-in-an-array-of-words)
-- **13:00h** - _Reinforcement Lesson #1_: Constructor Functions
-- **16:00h** - _Presentation Rehearsal #1_: About You & Your Project <br>
-  For your first presentation rehearsal
+- **16:00h** - _Presentation Practice #1_: About You & Your Project <br>
+  For your first presentation practice
   you should create your initial presentation structure. <br>
   [See Presentation Section](#presentations)
 
-### Wednesday - June 13th ###
+### Wednesday - August 22nd ###
 - **Coding Kata** - [TGI Friday!!](https://www.codewars.com/kata/tgi-friday)
-- **8:30h** - _Reinforcement Lesson #2_: Topic to be determined
-- **13:00h** - _Reinforcement Lesson #3_: Canvas
-- **18:00h** - _Reinforcement Lesson #4_: DOM
 
-### Thursday - June 14th ###
-- **11:00h** - _Reinforcement Lesson #5_: Git & GitHub
-- **13:30h** - _Career Services Talk_
-- **16:00h** - _Presentation Rehearsal #2_: Demo <br>
-  For the second presentation rehearsal
+### Thursday - August 23rd ###
+- **16:00h** - _Presentation Practice #2_: Demo <br>
+  For the second presentation practice
   you should incorporate a demo of your live game at the end of your talk.
   Your presentation structure should be more or less the same,
   but you should make adjustments based on feedback from the previous day. <br>
   [See Demo Tips](#demo-tips)
 
-### Friday - June 15th ###
+### Friday - August 24th ###
 - **16:00h** - **Project #1 Presentations** <br>
   Finally, on Friday it's time for your final presentation.
   You will present your projects to the staff and other students.
