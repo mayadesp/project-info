@@ -24,50 +24,45 @@ You and the Ironhack staff will also vote for your favorites
 and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
 
 Here are some examples of past projects:
-- [GiftHub](https://ironhack-gifthub.herokuapp.com/)
-- [What the Q](https://what-the-q.herokuapp.com/)
-- [Unbounded](https://unbounded.herokuapp.com/)
-- [Read Me If You Can](https://read-me-if-you-can.herokuapp.com/)
+- [sitepalette](https://site-palette.herokuapp.com/)
+- [Potluck](https://easypotluck.herokuapp.com/)
+- [IRONSTALK](https://ironstalk.herokuapp.com/)
+- [Construct](https://construct-project.herokuapp.com/)
 
-Looking for Project #1? See the [Project #1 document](project-1.md).
+Looking for Project #1? See the [Project #1 document](project1.md).
 
 
 Schedule
 --------
-### Monday - July 2nd ###
+### Monday - September 10th ###
 - **Coding Kata** - [Persistent Bugger](https://www.codewars.com/kata/persistent-bugger)
 
-### Tuesday - July 3rd ###
-- **16:00h** - _Presentation Rehearsal #1_: About Your Project <br>
-  For your first presentation rehearsal
+### Tuesday - September 11th ###
+- **Coding Kata** - [Find The Missing Letter](https://www.codewars.com/kata/find-the-missing-letter)
+- **16:00h** - _Presentation Practice #1_: About Your Project <br>
+  For your first presentation practice
   you should create your initial presentation structure.
   Your slides only need to talk about **your project idea**. <br>
   [See Presentation Section](#presentations)
 
-### Wednesday - July 4th ###
-- **11:00h** - _Lesson_: Google Maps (optional)
-- **16:00h** - _Lesson_: File Uploads (optional)
-- **17:00h** - _Lesson_: Automated Emails (optional)
+### Wednesday - September 12th ###
+- **Coding Kata** - [Playing With Digits](https://www.codewars.com/kata/playing-with-digits)
 
-### Thursday - July 5th ###
-- **11:00h** - _Lesson_: Deploying Your Backend App
-- **16:00h** - _Presentation Rehearsal #2_: Demo <br>
-  For the second presentation rehearsal
-  you should incorporate a demo of your live game at the end of your talk.
+### Thursday - September 13th ###
+- **16:00h** - _Presentation Practice #2_: Demo <br>
+  For the second presentation practice
+  you should incorporate a demo of your live app at the end of your talk.
   Your presentation structure should be more or less the same,
-  but you should make adjustments based on feedback from the previous day. <br>
+  but you should make adjustments based on feedback from the previous practice. <br>
   [See Demo Tips](#demo-tips)
 
-### Friday - July 6th ###
-- **14:30h** - **Project #2 Presentations** <br>
+### Friday - September 14th ###
+- **16:00h** - **Project #2 Presentations** <br>
   Finally, on Friday it's time for your final presentation.
   You will present your projects to the staff and other students.
   Remember to dress at least one degree nicer than normal.
-- **16:00h** - **France vs. Uruguay** ⚽️
 
 ### Bonus Katas ###
-- [Find The Missing Letter](https://www.codewars.com/kata/find-the-missing-letter)
-- [Playing With Digits](https://www.codewars.com/kata/playing-with-digits)
 - [Street Fighter 2 - Character Selection](https://www.codewars.com/kata/street-fighter-2-character-selection)
 
 
