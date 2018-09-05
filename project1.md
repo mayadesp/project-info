@@ -49,9 +49,9 @@ Schedule
 ### Thursday - August 23rd ###
 - **16:00h** - _Presentation Practice #2_: Demo <br>
   For the second presentation practice
-  you should incorporate a demo of your live game at the end of your talk.
+  you should incorporate a demo of your live app at the end of your talk.
   Your presentation structure should be more or less the same,
-  but you should make adjustments based on feedback from the previous day. <br>
+  but you should make adjustments based on feedback from the previous practice. <br>
   [See Demo Tips](#demo-tips)
 
 ### Friday - August 24th ###
