@@ -36,9 +36,10 @@ Schedule
 --------
 ### Monday - September 10th ###
 - **Coding Kata** - [Persistent Bugger](https://www.codewars.com/kata/persistent-bugger)
+- **14:00h** - _Lesson_: Google Maps (optional)	
 
 ### Tuesday - September 11th ###
-- **Coding Kata** - [Find The Missing Letter](https://www.codewars.com/kata/find-the-missing-letter)
+- **14:00h** - _Lesson_: File Uploads (optional)
 - **16:00h** - _Presentation Practice #1_: About Your Project <br>
   For your first presentation practice
   you should create your initial presentation structure.
@@ -46,7 +47,7 @@ Schedule
   [See Presentation Section](#presentations)
 
 ### Wednesday - September 12th ###
-- **Coding Kata** - [Playing With Digits](https://www.codewars.com/kata/playing-with-digits)
+- **14:00h** - _Lesson_: Sending Emails (optional)
 
 ### Thursday - September 13th ###
 - **16:00h** - _Presentation Practice #2_: Demo <br>
@@ -63,6 +64,8 @@ Schedule
   Remember to dress at least one degree nicer than normal.
 
 ### Bonus Katas ###
+- [Find The Missing Letter](https://www.codewars.com/kata/find-the-missing-letter)
+- [Playing With Digits](https://www.codewars.com/kata/playing-with-digits)
 - [Street Fighter 2 - Character Selection](https://www.codewars.com/kata/street-fighter-2-character-selection)
 
 
