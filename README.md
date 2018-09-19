@@ -82,10 +82,11 @@ Schedule
   Remember to dress at least one degree nicer than normal.
   **Medalists will present at the Hackshow!**
 
-### October ??? ###
+### Monday - October 8th ###
 - **18:30h** - **Hackshow** <br>
   Medalists of the Internal Hackshow will present their projects to the public.
-  There will be snacks and drinks!
+  The event will be at [WeWork La Fayette](https://goo.gl/maps/ZBhxCyUMeZ62)
+  and there will be snacks and drinks!
 
 ### Bonus Katas ###
 - [All That Is Open Must Be Closed](https://www.codewars.com/kata/all-that-is-open-must-be-closed-dot-dot-dot)
