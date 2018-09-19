@@ -1,4 +1,4 @@
-Project #3: MEAN Web Application
+Project #3: MERN Web Application
 ================================
 
 Table of Contents
@@ -21,10 +21,11 @@ we've looked at tons of different programming concepts and techniques.
 This is where you get to show it all off!
 
 Your 3rd and final project
-will be a **single-page Web application** using the **MEAN stack**.
+will be a **single-page Web application** using the **MERN stack**
+(MongoDB, Express, React & Node.js).
+You will also practice some **UX and Agile methodologies**.
 
-For your final projects,
-**you may work individually** or (optionally) **in teams of up to three**.
+For your final projects, **you will work in teams of three**.
 Each of you will also receive a promo code for a **free .CO domain** for your apps.
 
 As usual, you and the Ironhack staff will vote for your favorites
@@ -37,56 +38,53 @@ Here are some examples of past projects:
 - [Champions in the Arena](http://www.championsinthearena.co/)
 - [E-levate](http://www.e-levate.co/)
 
-Looking for Project #1 or #2? See the [Project #1 document](project-1.md)
-or the [Project #2 document](project-2.md).
+Looking for Project #1 or #2? See the [Project #1 document](project1.md)
+or the [Project #2 document](project2.md).
 
 
 Schedule
 --------
 
-### Wednesday - July 18th ###
+### Wednesday - September 26th ###
 - Concept Test
 - Database Schema Planning
 
-### Thursday - July 19th ###
-- Nizar Off
+### Thursday - September 27th ###
 - Paper Prototype Test
 
-### Friday - July 20th ###
-- Nizar Off
+### Friday - September 28th ###
 - Coding Kata - [Pete the Baker](https://www.codewars.com/kata/pete-the-baker/)
 
-### Monday - July 23rd ###
-- **16:00h** - _Lesson_: Deploying Your Angular App
+### Monday - October 1st ###
+- **14:00h** - _Lesson_: Deploying Your React App
 
-### Tuesday - July 24th ###
+### Tuesday - October 2nd ###
 - MVP Test
-- **16:00h** - _Presentation Rehearsal #1_: About You & Your Project <br>
-  For your first presentation rehearsal
-  you should create your initial presentation. <br>
+- **16:00h** - _Presentation Practice #1_: About You & Your Project <br>
+  For your first presentation practice
+  you should create your initial presentation structure. <br>
   Your slides need to talk about **you and your project idea**. <br>
   [See Presentation Section](#presentations)
 
-### Thursday - July 26th ###
-- **16:00h** - _Presentation Rehearsal #2_: Demo <br>
-  For the second presentation rehearsal
-  you should incorporate a demo of your live application at the end of your talk.
+### Thursday - October 4th ###
+- **16:00h** - _Presentation Practice #2_: Demo <br>
+  For the second presentation practice
+  you should incorporate a demo of your live app at the end of your talk.
   Your presentation structure should be more or less the same,
-  but you should make adjustments based on feedback from the previous day. <br>
+  but you should make adjustments based on feedback from the previous practice. <br>
   [See Demo Tips](#demo-tips)
 
 
-### Friday - July 27th ###
+### Friday - October 5th ###
 - **16:00h** - **Internal Hackshow: WebDev Final Presentations** <br>
   Finally, on Friday it's time for your **Ironhack project presentation**.
   You will present your projects to the staff and other students.
   Remember to dress at least one degree nicer than normal.
   **Medalists will present at the Hackshow!**
 
-### Monday - July 30th ###
+### October ??? ###
 - **18:30h** - **Hackshow** <br>
-  Winners of the Internal Hackshows for WebDev and UX/UI
-  will present their projects to the public.
+  Medalists of the Internal Hackshow will present their projects to the public.
   There will be snacks and drinks!
 
 ### Bonus Katas ###
@@ -100,9 +98,9 @@ Updated Technical Requirements
 ------------------------------
 You app must:
 
-1. **Use Angular** for all of the user-facing parts of your application.
+1. **Use React** for all of the user-facing parts of your application.
 2. **Use Express** for your **API backend**
-   that your Angular app will communicate with.
+   that your React app will communicate with.
 3. **Use Mongoose** for models and database communication.
 4. **Have 3 models _or more_**.
    Having one for users is a no-brainer.
@@ -114,7 +112,7 @@ You app must:
    with encrypted passwords (or social logins)
    and authorization (logged in users can do extra things).
 7. **Have _two_ repos on GitHub**.
-   One for your Angular application and the other for your Express API backend.
+   One for your React application and the other for your Express API backend.
 8. Have at least **1 commit per day** that you worked on it.
 9. **Be deployed online** using Heroku, so anybody could use your app.
 10. **Be connected to your free .co domain**.
@@ -128,11 +126,11 @@ Full CRUD **is not a requirement**.
 
 Updated Deliverables
 --------------------
-- A **working MEAN stack application, built by you** that runs on a server.
-- A **deploy of your app** on Heroku with a .co domain.
-- The **two URLs** of your **GitHub repositories** (Angular & Express).
+- A **working MERN stack application, built by you** that runs on a server.
+- A **deploy of your app** with a .co domain.
+- The **two URLs** of your **GitHub repositories** (React & Express).
 - The URL of the **live app on your .co domain**.
-- The URL of the **Heroku app**.
+- The URL of the **React app**.
 - The URL of the **slides for your app's presentation**.
 - Your **GitHub repos** should have
   the **URL of your live app** in the URL section.
