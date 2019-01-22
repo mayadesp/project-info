@@ -1,4 +1,4 @@
-Project #2: Full-stack Web Application
+MAYA Project #2: Full-stack Web Application
 ======================================
 
 Table of Contents
