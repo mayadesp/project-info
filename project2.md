@@ -1,4 +1,4 @@
-MAYA Project #2: Full-stack Web Application
+Project #2: Full-stack Web Application
 ======================================
 
 Table of Contents
@@ -29,39 +29,64 @@ Here are some examples of past projects:
 - [IRONSTALK](https://ironstalk.herokuapp.com/)
 - [Construct](https://construct-project.herokuapp.com/)
 
-Looking for Project #1? See the [Project #1 document](project1.md).
-
 
 Schedule
 --------
-### Monday - September 10th ###
+### TUESDAY - Jan 22nd ###
+- **Kick-Off Meeting with your Team Leader 7pm**: project idea, wireframes, database model, features list
+
+
+### THURSDAY - Jan 24th ###
+- **Daily Stand-up 6:30pm**
+
+
+### SATURDAY - Jan 26th ###
+- **Daily Stand-up 10am**
 - **Coding Kata** - [Persistent Bugger](https://www.codewars.com/kata/persistent-bugger)
 - **14:00h** - _Lesson_: Google Maps (optional)	
 
-### Tuesday - September 11th ###
-- **14:00h** - _Lesson_: File Uploads (optional)
-- **16:00h** - _Presentation Practice #1_: About Your Project <br>
-  For your first presentation practice
+
+### TUESDAY - Jan 29th ###
+- **Daily Stand-up 6:30pm**
+
+
+### THURSDAY - Jan 31th ###
+- **Daily Stand-up 6:30pm**
+
+
+### SATURDAY - Feb 2nd ###
+- **OFF**
+- **Extra ressources: Coding Kata** [Find The Missing Letter](https://www.codewars.com/kata/find-the-missing-letter)
+
+### TUESDAY - Feb 5th ###
+- **Daily Stand-up 6:30pm**
+
+
+### THURSDAY - Feb 7th ###
+- **Daily Stand-up 6:30pm**
+
+
+### SATURDAY - Feb 9th ###
+- **14:00h** - _Presentation Practice _ <br>
+  For your presentation practice
   you should create your initial presentation structure.
-  Your slides only need to talk about **your project idea**. <br>
-  [See Presentation Section](#presentations)
-
-### Wednesday - September 12th ###
-- **14:00h** - _Lesson_: Sending Emails (optional)
-
-### Thursday - September 13th ###
-- **16:00h** - _Presentation Practice #2_: Demo <br>
-  For the second presentation practice
+  Your slides need to talk about **your project idea**.
   you should incorporate a demo of your live app at the end of your talk.
-  Your presentation structure should be more or less the same,
-  but you should make adjustments based on feedback from the previous practice. <br>
+  Your final presentation structure should be more or less the same,
+  but you will make adjustments based on our feedbacks 
+ <br>
+  [See Presentation Section](#presentations)
   [See Demo Tips](#demo-tips)
 
-### Friday - September 14th ###
-- **16:00h** - **Project #2 Presentations** <br>
-  Finally, on Friday it's time for your final presentation.
+
+### TUESDAY - Feb 12th ###
+- **Daily Stand-up 6:30pm**
+
+
+### THURSDAY - Feb 14th ###
+- **18:30** - **Project #2 Presentations** <br>
+  Finally, it's time for your final presentation.
   You will present your projects to the staff and other students.
-  Remember to dress at least one degree nicer than normal.
 
 ### Bonus Katas ###
 - [Find The Missing Letter](https://www.codewars.com/kata/find-the-missing-letter)
@@ -119,14 +144,6 @@ You should still **introduce yourselves briefly**.
 - Demo: **2 minutes**
 - Total: **5 minutes**
 
-### Attire ###
-- Dress nicely for this and all final project presentations
-  (last day of each project's time).
-- Dress at least **one degree more elegantly** than you usually dress for class.
-- _Examples_:
-  * If you wear t-shirts every day, wear a button-down shirt.
-  * If you wear jeans every day, wear some slacks.
-  * If you wear sneakers every day, wear nicer shoes.
 
 ### Slide Applications ###
 - All presentations will be done **from a staff member's computer**,
