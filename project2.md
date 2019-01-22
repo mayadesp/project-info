@@ -67,6 +67,7 @@ Schedule
 
 
 ### SATURDAY - Feb 9th ###
+- **10:00h** - **Coding Kata** - [Playing With Digits](https://www.codewars.com/kata/playing-with-digits)
 - **14:00h** - _Presentation Practice _ <br>
   For your presentation practice
   you should create your initial presentation structure.
@@ -75,8 +76,7 @@ Schedule
   Your final presentation structure should be more or less the same,
   but you will make adjustments based on our feedbacks 
  <br>
-  [See Presentation Section](#presentations)
-  [See Demo Tips](#demo-tips)
+
 
 
 ### TUESDAY - Feb 12th ###
@@ -89,8 +89,6 @@ Schedule
   You will present your projects to the staff and other students.
 
 ### Bonus Katas ###
-- [Find The Missing Letter](https://www.codewars.com/kata/find-the-missing-letter)
-- [Playing With Digits](https://www.codewars.com/kata/playing-with-digits)
 - [Street Fighter 2 - Character Selection](https://www.codewars.com/kata/street-fighter-2-character-selection)
 
 
